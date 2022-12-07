@@ -10,3 +10,6 @@ C:\Users\yodel\Desktop\ft-bootcamp\CSharp and DotNet\PrimeSifting.Solution\Prime
 C:\Users\yodel\Desktop\ft-bootcamp\CSharp and DotNet\PrimeSifting.Solution\PrimeSifting\obj\Debug\net6.0\refint\PrimeSifting.dll
 C:\Users\yodel\Desktop\ft-bootcamp\CSharp and DotNet\PrimeSifting.Solution\PrimeSifting\obj\Debug\net6.0\PrimeSifting.pdb
 C:\Users\yodel\Desktop\ft-bootcamp\CSharp and DotNet\PrimeSifting.Solution\PrimeSifting\obj\Debug\net6.0\ref\PrimeSifting.dll
+C:\Users\yodel\Desktop\ft-bootcamp\CSharp and DotNet\PrimeSifting.Solution\PrimeSifting\bin\Debug\net6.0\PrimeSifting.exe
+C:\Users\yodel\Desktop\ft-bootcamp\CSharp and DotNet\PrimeSifting.Solution\PrimeSifting\bin\Debug\net6.0\PrimeSifting.runtimeconfig.json
+C:\Users\yodel\Desktop\ft-bootcamp\CSharp and DotNet\PrimeSifting.Solution\PrimeSifting\obj\Debug\net6.0\PrimeSifting.genruntimeconfig.cache
