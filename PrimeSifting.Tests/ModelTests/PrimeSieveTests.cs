@@ -37,7 +37,7 @@ namespace PrimeSifting.Tests
     {
       int userInput = 10;
       PrimeSieve newPrimeSieve = new PrimeSieve(userInput);
-      List<int> expected = new List<int> {2,3,5,7,9};
+      List<int> expected = new List<int> {2,3,5,7};
       CollectionAssert.AreEqual(expected, newPrimeSieve.RemovePrimeMultiples());
     }
 
