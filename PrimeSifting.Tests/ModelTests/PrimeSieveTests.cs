@@ -1,5 +1,6 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using PrimeSifting.Models;
+using System;
 using System.Collections.Generic;
 
 namespace PrimeSifting.Tests
@@ -29,6 +30,15 @@ namespace PrimeSifting.Tests
       PrimeSieve newPrimeSieve = new PrimeSieve(userInput);
       List<int> expected = new List<int> {2,3,4,5,6,7,8,9,10};
       CollectionAssert.AreEqual(expected, newPrimeSieve.GetAllNumbers());
+    }
+
+    [TestMethod]
+    public void RemovePrimeMultiples_ReturnsListOfPrimeNumbers_List()
+    {
+      int userInput = 10;
+      PrimeSieve newPrimeSieve = new PrimeSieve(userInput);
+      List<int> expected = new List<int> {2,3,5,7,9};
+      CollectionAssert.AreEqual(expected, newPrimeSieve.RemovePrimeMultiples());
     }
 
   }
