@@ -1,0 +1,12 @@
+C:\Users\yodel\Desktop\ft-bootcamp\CSharp and DotNet\PrimeSifting.Solution\PrimeSifting\obj\Debug\net6.0\PrimeSifting.csproj.AssemblyReference.cache
+C:\Users\yodel\Desktop\ft-bootcamp\CSharp and DotNet\PrimeSifting.Solution\PrimeSifting\obj\Debug\net6.0\PrimeSifting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yodel\Desktop\ft-bootcamp\CSharp and DotNet\PrimeSifting.Solution\PrimeSifting\obj\Debug\net6.0\PrimeSifting.AssemblyInfoInputs.cache
+C:\Users\yodel\Desktop\ft-bootcamp\CSharp and DotNet\PrimeSifting.Solution\PrimeSifting\obj\Debug\net6.0\PrimeSifting.AssemblyInfo.cs
+C:\Users\yodel\Desktop\ft-bootcamp\CSharp and DotNet\PrimeSifting.Solution\PrimeSifting\obj\Debug\net6.0\PrimeSifting.csproj.CoreCompileInputs.cache
+C:\Users\yodel\Desktop\ft-bootcamp\CSharp and DotNet\PrimeSifting.Solution\PrimeSifting\bin\Debug\net6.0\PrimeSifting.deps.json
+C:\Users\yodel\Desktop\ft-bootcamp\CSharp and DotNet\PrimeSifting.Solution\PrimeSifting\bin\Debug\net6.0\PrimeSifting.dll
+C:\Users\yodel\Desktop\ft-bootcamp\CSharp and DotNet\PrimeSifting.Solution\PrimeSifting\bin\Debug\net6.0\PrimeSifting.pdb
+C:\Users\yodel\Desktop\ft-bootcamp\CSharp and DotNet\PrimeSifting.Solution\PrimeSifting\obj\Debug\net6.0\PrimeSifting.dll
+C:\Users\yodel\Desktop\ft-bootcamp\CSharp and DotNet\PrimeSifting.Solution\PrimeSifting\obj\Debug\net6.0\refint\PrimeSifting.dll
+C:\Users\yodel\Desktop\ft-bootcamp\CSharp and DotNet\PrimeSifting.Solution\PrimeSifting\obj\Debug\net6.0\PrimeSifting.pdb
+C:\Users\yodel\Desktop\ft-bootcamp\CSharp and DotNet\PrimeSifting.Solution\PrimeSifting\obj\Debug\net6.0\ref\PrimeSifting.dll
