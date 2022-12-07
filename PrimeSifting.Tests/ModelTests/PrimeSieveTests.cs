@@ -1,5 +1,6 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using PrimeSifting.Models;
+using System.Collections.Generic;
 
 namespace PrimeSifting.Tests
 {
@@ -19,6 +20,15 @@ namespace PrimeSifting.Tests
       int userInput = 10;
       PrimeSieve newPrimeSieve = new PrimeSieve(userInput);
       Assert.AreEqual(userInput, newPrimeSieve.UserInput);
+    }
+
+    [TestMethod]
+    public void GetAllNumbers_ReturnsListOfNumbersUpToInput_List()
+    {
+      int userInput = 10;
+      PrimeSieve newPrimeSieve = new PrimeSieve(userInput);
+      List<int> expected = new List<int> {2,3,4,5,6,7,8,9,10};
+      CollectionAssert.AreEqual(expected, newPrimeSieve.GetAllNumbers());
     }
 
   }
